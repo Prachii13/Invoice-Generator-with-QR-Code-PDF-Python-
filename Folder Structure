@@ -1,0 +1,6 @@
+invoice-generator/
+├── generate_invoice.py
+├── logo.png
+├── invoice.pdf
+├── requirements.txt
+└── README.md
